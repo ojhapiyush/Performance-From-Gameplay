@@ -41,5 +41,5 @@ This documentation summarizes the key steps followed to predict student performa
 - [Seaborn Documentation](https://seaborn.pydata.org/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
-- [Kaggle-contest-link](https://www.kaggle.com/competitions/predict-student-performance-from-game-play/overview)
+- [Kaggle-contest-link(For dataset)](https://www.kaggle.com/competitions/predict-student-performance-from-game-play/overview)
 
